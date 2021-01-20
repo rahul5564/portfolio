@@ -107,3 +107,42 @@ body{
     padding: 0.5rem 0.5rem;
     font-weight: bold;
   }
+#secondary{
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-style: bold;
+  padding: 0.5rem 0.5rem;
+  border: 1px solid black;
+}
+#blog-image{
+max-width: 400px;
+margin: auto;
+display: block;
+justify-content: center;
+align-items: center;
+}
+.readmore{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 5px 20px;
+  display: inline-block;
+  border-radius: 2px;
+  text-decoration: none;
+}
+#imagejs{
+max-width: 400px;
+margin: auto;
+display: block;
+justify-content: center;
+align-items: center;
+}
+#learn{
+background-color: black;
+color: white;
+padding: 1rem;
+font-weight: bold;
+}
