@@ -55,6 +55,7 @@ body{
   #my-pic{
     margin: auto;
     display: block;
+    width: 620px;
   }
   .btm-layer{
     background-color:  #34568B;
